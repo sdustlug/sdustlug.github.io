@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 山东科技大学学生 Linux 用户协会</title>
+    <link>http://examplesite.org/tags/</link>
+    <description>Recent content in Tags on 山东科技大学学生 Linux 用户协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0800</lastBuildDate><atom:link href="http://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go</title>
+      <link>http://examplesite.org/tags/go/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>http://examplesite.org/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://examplesite.org/tags/hugo/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>http://examplesite.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
