@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 山东科技大学学生 Linux 用户协会</title>
+    <link>http://sdustlug.github.io/categories/</link>
+    <description>Recent content in Categories on 山东科技大学学生 Linux 用户协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0800</lastBuildDate><atom:link href="http://sdustlug.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://sdustlug.github.io/categories/news/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>http://sdustlug.github.io/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
